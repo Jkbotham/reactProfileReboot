@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/homework/reactProfileUpdate/profileupdate/static/css/main.4a2cdb73.chunk.css",
-    "main.js": "/homework/reactProfileUpdate/profileupdate/static/js/main.d67990f5.chunk.js",
-    "main.js.map": "/homework/reactProfileUpdate/profileupdate/static/js/main.d67990f5.chunk.js.map",
-    "runtime-main.js": "/homework/reactProfileUpdate/profileupdate/static/js/runtime-main.807586ca.js",
-    "runtime-main.js.map": "/homework/reactProfileUpdate/profileupdate/static/js/runtime-main.807586ca.js.map",
-    "static/js/2.72f3e330.chunk.js": "/homework/reactProfileUpdate/profileupdate/static/js/2.72f3e330.chunk.js",
-    "static/js/2.72f3e330.chunk.js.map": "/homework/reactProfileUpdate/profileupdate/static/js/2.72f3e330.chunk.js.map",
-    "index.html": "/homework/reactProfileUpdate/profileupdate/index.html",
-    "precache-manifest.e857eb025edaa172fd85dcc2e131620d.js": "/homework/reactProfileUpdate/profileupdate/precache-manifest.e857eb025edaa172fd85dcc2e131620d.js",
-    "service-worker.js": "/homework/reactProfileUpdate/profileupdate/service-worker.js",
-    "static/css/main.4a2cdb73.chunk.css.map": "/homework/reactProfileUpdate/profileupdate/static/css/main.4a2cdb73.chunk.css.map",
-    "static/js/2.72f3e330.chunk.js.LICENSE.txt": "/homework/reactProfileUpdate/profileupdate/static/js/2.72f3e330.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/homework/reactProfileUpdate/profileupdate/static/media/white-waves.a06a3248.png"
+    "main.css": "/reactProfileReboot/static/css/main.2a4e14ea.chunk.css",
+    "main.js": "/reactProfileReboot/static/js/main.b5844358.chunk.js",
+    "main.js.map": "/reactProfileReboot/static/js/main.b5844358.chunk.js.map",
+    "runtime-main.js": "/reactProfileReboot/static/js/runtime-main.9f905e3b.js",
+    "runtime-main.js.map": "/reactProfileReboot/static/js/runtime-main.9f905e3b.js.map",
+    "static/js/2.ac67d298.chunk.js": "/reactProfileReboot/static/js/2.ac67d298.chunk.js",
+    "static/js/2.ac67d298.chunk.js.map": "/reactProfileReboot/static/js/2.ac67d298.chunk.js.map",
+    "index.html": "/reactProfileReboot/index.html",
+    "precache-manifest.d4c8f179bea50a2195c7ed3b7716f6b6.js": "/reactProfileReboot/precache-manifest.d4c8f179bea50a2195c7ed3b7716f6b6.js",
+    "service-worker.js": "/reactProfileReboot/service-worker.js",
+    "static/css/main.2a4e14ea.chunk.css.map": "/reactProfileReboot/static/css/main.2a4e14ea.chunk.css.map",
+    "static/js/2.ac67d298.chunk.js.LICENSE.txt": "/reactProfileReboot/static/js/2.ac67d298.chunk.js.LICENSE.txt",
+    "static/media/PwAppScreen.png": "/reactProfileReboot/static/media/PwAppScreen.833d6bb6.png",
+    "static/media/headshot.heic": "/reactProfileReboot/static/media/headshot.b8579b58.heic",
+    "static/media/homepage.JPG": "/reactProfileReboot/static/media/homepage.9319eae1.JPG",
+    "static/media/style.css": "/reactProfileReboot/static/media/white-waves.a06a3248.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.807586ca.js",
-    "static/js/2.72f3e330.chunk.js",
-    "static/css/main.4a2cdb73.chunk.css",
-    "static/js/main.d67990f5.chunk.js"
+    "static/js/runtime-main.9f905e3b.js",
+    "static/js/2.ac67d298.chunk.js",
+    "static/css/main.2a4e14ea.chunk.css",
+    "static/js/main.b5844358.chunk.js"
   ]
 }
