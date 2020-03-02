@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/reactProfileReboot/static/css/main.2a4e14ea.chunk.css",
-    "main.js": "/reactProfileReboot/static/js/main.b5844358.chunk.js",
-    "main.js.map": "/reactProfileReboot/static/js/main.b5844358.chunk.js.map",
+    "main.js": "/reactProfileReboot/static/js/main.b62c7f3a.chunk.js",
+    "main.js.map": "/reactProfileReboot/static/js/main.b62c7f3a.chunk.js.map",
     "runtime-main.js": "/reactProfileReboot/static/js/runtime-main.9f905e3b.js",
     "runtime-main.js.map": "/reactProfileReboot/static/js/runtime-main.9f905e3b.js.map",
-    "static/js/2.ac67d298.chunk.js": "/reactProfileReboot/static/js/2.ac67d298.chunk.js",
-    "static/js/2.ac67d298.chunk.js.map": "/reactProfileReboot/static/js/2.ac67d298.chunk.js.map",
+    "static/js/2.72f3e330.chunk.js": "/reactProfileReboot/static/js/2.72f3e330.chunk.js",
+    "static/js/2.72f3e330.chunk.js.map": "/reactProfileReboot/static/js/2.72f3e330.chunk.js.map",
     "index.html": "/reactProfileReboot/index.html",
-    "precache-manifest.d4c8f179bea50a2195c7ed3b7716f6b6.js": "/reactProfileReboot/precache-manifest.d4c8f179bea50a2195c7ed3b7716f6b6.js",
+    "precache-manifest.f572662688c16a9b9b9a74c9b8679ec2.js": "/reactProfileReboot/precache-manifest.f572662688c16a9b9b9a74c9b8679ec2.js",
     "service-worker.js": "/reactProfileReboot/service-worker.js",
     "static/css/main.2a4e14ea.chunk.css.map": "/reactProfileReboot/static/css/main.2a4e14ea.chunk.css.map",
-    "static/js/2.ac67d298.chunk.js.LICENSE.txt": "/reactProfileReboot/static/js/2.ac67d298.chunk.js.LICENSE.txt",
-    "static/media/PwAppScreen.png": "/reactProfileReboot/static/media/PwAppScreen.833d6bb6.png",
-    "static/media/headshot.heic": "/reactProfileReboot/static/media/headshot.b8579b58.heic",
-    "static/media/homepage.JPG": "/reactProfileReboot/static/media/homepage.9319eae1.JPG",
+    "static/js/2.72f3e330.chunk.js.LICENSE.txt": "/reactProfileReboot/static/js/2.72f3e330.chunk.js.LICENSE.txt",
     "static/media/style.css": "/reactProfileReboot/static/media/white-waves.a06a3248.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9f905e3b.js",
-    "static/js/2.ac67d298.chunk.js",
+    "static/js/2.72f3e330.chunk.js",
     "static/css/main.2a4e14ea.chunk.css",
-    "static/js/main.b5844358.chunk.js"
+    "static/js/main.b62c7f3a.chunk.js"
   ]
 }
