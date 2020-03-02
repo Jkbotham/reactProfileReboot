@@ -8,20 +8,20 @@ function NavTab() {
             <ul className="nav justify-content-end" >
                 <li className="nav-item">
                     <Link
-                        to="/"
-                        className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"} >
+                        to="/reactProfileReboot"
+                        className={window.location.pathname === "/reactProfileReboot/about" ? "nav-link active" : "nav-link"} >
                         About
                     </Link>
                 </li>
                 <li className="nav-item">
-                    <Link to="/profile"
-                        className={window.location.pathname === "/profile" ? "nav-link active" : "nav-link"} >
+                    <Link to="/reactProfileReboot/profile"
+                        className={window.location.pathname === "/reactProfileReboot/profile" ? "nav-link active" : "nav-link"} >
                         Portfolio
                         </Link>
                 </li>
                 <li id="small" className="nav-item">
-                    <Link to="/contact"
-                        className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"} >
+                    <Link to="/reactProfileReboot/contact"
+                        className={window.location.pathname === "/reactProfileReboot/contact" ? "nav-link active" : "nav-link"} >
                         Contact
                         </Link>
                 </li>

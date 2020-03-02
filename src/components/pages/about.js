@@ -1,4 +1,6 @@
 import React from "react";
+import "../../assets/css/style.css"
+import headShot from "../../assets/images/headshot.heic"
 
 
 function About() {
@@ -20,7 +22,7 @@ function About() {
 
                     <div className="row">
                         <div className="col-md-3">
-                            <img src="./images/headshot.heic"  className="img-fluid rounded d-block pb-3" alt="James Botham" />
+                            <img src={headShot} className="img-fluid rounded d-block pb-3" alt="James Botham" />
                         </div>
                         <div className="col-md-9">
                             <p className="text-justify"> My name is James Botham and I'm studying to become a web developer. I grew up in the west suburbs of Minneapolis and attended Augsburg University, graduating with a business management degree. Upon graduation I started a frozen food distribution company based in Minneapolis, MN.  After growing the company for a few years and doing over $700,000 in sales per year I decided to try my hand at something new.

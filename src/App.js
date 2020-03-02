@@ -11,9 +11,9 @@ function App() {
         <Router>
             <div>
                 <NavTabs />
-                <Route exact path="/" component={About} />
-                <Route exact path="/profile" component={Profile} />
-                <Route exact path="/contact" component={Contact} />
+                <Route exact path="/reactProfileReboot/" component={About} />
+                <Route exact path="/reactProfileReboot/profile" component={Profile} />
+                <Route exact path="/reactProfileReboot/contact" component={Contact} />
                 <Footer />
             </div>
         </Router>
